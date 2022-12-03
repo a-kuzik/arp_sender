@@ -21,8 +21,8 @@ Running the script:
 *python3 sender.py*
 
 Result:
-
-*A:LAB# show router arp 
+```
+A:LAB# show router arp 
 
 ===============================================================================
 ARP Table (Router: Base)
@@ -49,5 +49,5 @@ IP Address      MAC Address       Expiry    Type   Interface
 -------------------------------------------------------------------------------
 No. of ARP Entries: 25
 ===============================================================================
-A:LAB# *
-
+A:LAB#
+```
