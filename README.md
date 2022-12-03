@@ -4,7 +4,7 @@ This is a small and simple script for testing network equipment.
 
 Before starting it, you need to change the values of the variables in the arp_sender.py script.
 ```
-```The`` *variable* ```controls the number of generated ARPs. It should be part of the direct network and be less specific.``` 
+```The``` *variable* ```controls the number of generated ARPs. It should be part of the direct network and be less specific.``` 
 The split_mask variable must not be changed.
 The src_mac variable is the MAC address of the interface ARP source (depending on the OS, it is determined by the ifconfig or ipconfig command).
 The iface variable is the name of the interface of ARP source.
