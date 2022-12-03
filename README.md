@@ -1,5 +1,5 @@
 # arp_sender
-
+```
 This is a small and simple script for testing network equipment.
 Before starting it, you need to change the values of the variables in the arp_sender.py script.
 The net variable controls the number of generated ARPs. It should be part of the direct network and be less specific. 
@@ -12,3 +12,4 @@ If the link between the ARP source and the testing node under test is tagged, th
 Running the script:
 
 python3 sender.py
+```
